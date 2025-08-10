@@ -46,15 +46,9 @@ Accredited by the University of the West of Scotland
 ---
 
 ## 📫 Contact Me  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff8906?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio-link)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff8906?style=flat&logo=google-chrome&logoColor=white)](https://stoffeeriksson.github.io/portfolio/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christoffer-eriksson-29b783349/)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:christoffer.stoffe94@gmail.com)  
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=ff8906)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ---
 
