@@ -25,16 +25,16 @@ With experience in both **frontend** and **backend** development, I create compl
 
 ## 📦 Featured Projects  
 
-### 🎣 [Sport Fishing Equipment](https://github.com/your-repo-link)  
+### 🎣 [Sport Fishing Equipment](https://github.com/StoffeEriksson/sport-fishing-equipment)  
 Full-stack e-commerce platform built with Django. Features include product categories, shopping cart, Stripe integration, user management, order history, ratings, and comments.  
 
-### 📊 [Fishing Log](https://github.com/your-repo-link)  
+### 📊 [Fishing Log](https://github.com/StoffeEriksson/fishing-log?tab=readme-ov-file)  
 Dynamic logbook with statistics and data visualization. Users can record and analyze fishing trips using graphs and filtering.  
 
-### 🕹️ [Whack A Mole](https://github.com/your-repo-link)  
+### 🕹️ [Whack A Mole](https://github.com/StoffeEriksson/whack-a-mole?tab=readme-ov-file)  
 Interactive browser game built in JavaScript. Trains timing and reaction skills with animations and score tracking.  
 
-### 🌲 [Fishing Adventures](https://github.com/your-repo-link)  
+### 🌲 [Fishing Adventures](https://github.com/StoffeEriksson/fishing-adventures?tab=readme-ov-file)  
 Responsive information website for a fishing camp. Includes a booking form, image gallery, contact section, and visitor information.  
 
 ---
